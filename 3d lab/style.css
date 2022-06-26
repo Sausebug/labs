@@ -1,0 +1,42 @@
+body{
+    background: #775451;
+}
+h1{
+    position: 50, 50;
+    width: 302px;
+    height: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: blue;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px rgb(48, 229, 241);
+
+
+}
+h2{
+    position: 60, 60;
+    width: 509px;
+    height: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: turquoise;
+    text-shadow:1px 1px 10px rgb(0, 28, 151), 1px 1px 10px #ccc;
+}
+h3{
+    position: absolute;
+    width: 455px;
+    height: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: #FFFFFF;
+    text-shadow: 3px 9px 31px #000000;
+
+}
